@@ -1,6 +1,0 @@
-name: mycondaenv
-channels:
-  - defaults
-dependencies:
-  - numpy
-  - matplotlib
